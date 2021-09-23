@@ -1,0 +1,19 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="premium" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="ff79c5" />
+    <option name="selectedTheme" value="DRACULA" />
+    <option name="userId" value="-599cd59b:17b1d9689c8:-8000" />
+    <option name="version" value="6.8.0.1" />
+    <option name="showWhatsNew" value="false" />
+  </component>
+</application>

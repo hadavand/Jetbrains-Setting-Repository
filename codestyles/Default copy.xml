@@ -1,0 +1,14 @@
+<code_scheme name="Default copy" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="INDENT_SIZE" value="2" />
+    </value>
+  </option>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
+  <codeStyleSettings language="yaml">
+    <option name="SPACE_WITHIN_BRACKETS" value="false" />
+    <option name="SPACE_WITHIN_BRACES" value="false" />
+  </codeStyleSettings>
+</code_scheme>

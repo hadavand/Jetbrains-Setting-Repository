@@ -1,0 +1,11 @@
+<keymap version="1" name="macOS For All copy" parent="macOS For All">
+  <action id="Kubernetes.ConfigureHelmParameters">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad0" />
+  </action>
+  <action id="Kubernetes.HelmLint">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad1" />
+  </action>
+  <action id="Kubernetes.HelmTemplateDiff">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad2" />
+  </action>
+</keymap>

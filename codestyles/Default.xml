@@ -1,0 +1,9 @@
+<code_scheme name="Default" version="173">
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
+  <codeStyleSettings language="yaml">
+    <option name="SPACE_WITHIN_BRACKETS" value="false" />
+    <option name="SPACE_WITHIN_BRACES" value="false" />
+  </codeStyleSettings>
+</code_scheme>

@@ -1,0 +1,10 @@
+<application>
+  <component name="KubernetesApiSettings">
+    <option name="kubeconfigPath" value="$USER_HOME$/.kube/config" />
+    <option name="shellCommand" value="/bin/sh" />
+  </component>
+  <component name="KubernetesPodLogsSettings">
+    <option name="downloadPath" value="$USER_HOME$/.log/pod" />
+    <option name="timestampedLogName" value="true" />
+  </component>
+</application>

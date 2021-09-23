@@ -1,0 +1,19 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry>
+      <option name="address" value="registry.hub.docker.com" />
+      <option name="name" value="Docker Hub" />
+      <option name="username" value="hadavand" />
+    </DockerRegistry>
+    <DockerRegistry>
+      <option name="address" value="quay.io" />
+      <option name="name" value="Redhat" />
+      <option name="username" value="hadavand" />
+    </DockerRegistry>
+    <DockerRegistry>
+      <option name="address" value="registry.snapp.tech" />
+      <option name="name" value="Snappcloud" />
+      <option name="username" value="majid.hadavand" />
+    </DockerRegistry>
+  </component>
+</application>
