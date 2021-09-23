@@ -1,8 +1,0 @@
-<application>
-  <component name="UpdatesConfigurable">
-    <pluginHosts>
-      <item value="https://repo.idechajian.com" />
-    </pluginHosts>
-    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
-  </component>
-</application>
