@@ -1,0 +1,9 @@
+<keymap version="1" name="XWin copy" parent="Default for XWin">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl windows" second-keystroke="left" />
+  </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+  </action>
+</keymap>
