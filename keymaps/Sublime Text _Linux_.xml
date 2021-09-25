@@ -1,4 +1,11 @@
 <keymap version="1" name="Sublime Text (Linux)" parent="Sublime Text">
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="EditorPasteFromX11" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="meta f1" />
   </action>
