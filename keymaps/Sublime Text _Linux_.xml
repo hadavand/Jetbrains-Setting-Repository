@@ -14,6 +14,7 @@
   <action id="EditorPasteFromX11" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta enter" />
+    <mouse-shortcut keystroke="shift control button3" />
   </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
