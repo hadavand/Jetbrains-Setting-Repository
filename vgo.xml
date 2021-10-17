@@ -1,0 +1,22 @@
+<application>
+  <component name="vgo">
+    <environment>
+      <map>
+        <entry key="GOPROXY">
+          <value>
+            <list>
+              <option value="https://repo.snapp.tech/repository/goproxy/" />
+            </list>
+          </value>
+        </entry>
+        <entry key="GOSUMDB">
+          <value>
+            <list>
+              <option value="gitlab.snapp.ir" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </environment>
+  </component>
+</application>
