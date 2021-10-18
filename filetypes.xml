@@ -3,6 +3,10 @@
     <extensionMap>
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping pattern=".eslintignore" approved="true" type="ESLint File" />
+      <removed_mapping pattern=".jshintignore" approved="true" type="JSHint File" />
+      <removed_mapping pattern=".npmignore" approved="true" type="Npm File" />
+      <removed_mapping pattern=".stylelintignore" approved="true" type="StyleLint File" />
     </extensionMap>
   </component>
 </application>

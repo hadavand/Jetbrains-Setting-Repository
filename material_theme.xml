@@ -9,11 +9,12 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
-    <option name="accentColor" value="2979ff" />
-    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="accentColor" value="10a6e7" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-599cd59b:17b1d9689c8:-8000" />
-    <option name="version" value="6.8.2" />
+    <option name="version" value="6.9.1" />
     <option name="showWhatsNew" value="false" />
   </component>
 </application>
