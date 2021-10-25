@@ -1,4 +1,34 @@
 <application>
+  <component name="ProjectViewFileNesting">
+    <nesting-rules>
+      <NestingRule child-file-suffix=".css.map" parent-file-suffix=".css" />
+      <NestingRule child-file-suffix=".min.css" parent-file-suffix=".css" />
+      <NestingRule child-file-suffix=".min.css.map" parent-file-suffix=".css" />
+      <NestingRule child-file-suffix=".js" parent-file-suffix=".es6" />
+      <NestingRule child-file-suffix=".js.map" parent-file-suffix=".es6" />
+      <NestingRule child-file-suffix="_easyjson.go" parent-file-suffix=".go" />
+      <NestingRule child-file-suffix="_reform.go" parent-file-suffix=".go" />
+      <NestingRule child-file-suffix="_string.go" parent-file-suffix=".go" />
+      <NestingRule child-file-suffix="-compiled.js" parent-file-suffix=".js" />
+      <NestingRule child-file-suffix="-compiled.js.map" parent-file-suffix=".js" />
+      <NestingRule child-file-suffix=".js.map" parent-file-suffix=".js" />
+      <NestingRule child-file-suffix=".map" parent-file-suffix=".js" />
+      <NestingRule child-file-suffix=".min.js" parent-file-suffix=".js" />
+      <NestingRule child-file-suffix=".min.js.map" parent-file-suffix=".js" />
+      <NestingRule child-file-suffix=".js" parent-file-suffix=".jsx" />
+      <NestingRule child-file-suffix=".js.map" parent-file-suffix=".jsx" />
+      <NestingRule child-file-suffix=".d.ts" parent-file-suffix=".ts" />
+      <NestingRule child-file-suffix=".d.ts.map" parent-file-suffix=".ts" />
+      <NestingRule child-file-suffix=".js" parent-file-suffix=".ts" />
+      <NestingRule child-file-suffix=".js.map" parent-file-suffix=".ts" />
+      <NestingRule child-file-suffix=".d.ts" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix=".js" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix=".js.map" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix=".jsx" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix=".jsx.map" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix="go.sum" parent-file-suffix="go.mod" />
+    </nesting-rules>
+  </component>
   <component name="UISettings">
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="28" />
