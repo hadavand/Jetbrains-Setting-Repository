@@ -17,6 +17,11 @@
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
+  <codeStyleSettings language="go">
+    <indentOptions>
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="yaml">
     <option name="SPACE_WITHIN_BRACKETS" value="false" />
     <option name="SPACE_WITHIN_BRACES" value="false" />
